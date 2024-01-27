@@ -1,0 +1,8 @@
+projeto: {
+  com_gerenciador_gradle:
+  instalar_gradle: sudo apt install gradle
+  versao: gradle --version,
+    tutorial: "https://medium.com/@thunderz99/debugging-kotlin-program-using-vscode-318ed43fe2f0"
+
+    iniciar_projeto: "sudo gradle init --type=kotlin-application",
+}

@@ -1,0 +1,3 @@
+Pra_que_POO : para reutilização de codigo e nao gerar bugs.
+
+extensoes_arquivo: para script .kts (de kotlin script), normal para kotlin .kt

@@ -1,0 +1,7 @@
+
+rodar_arquivo_no_console:
+  primeiro_compilar: kotlinc src/Main.kt
+  rodar_compilado: kotlin MainKt.class
+  comando_run_personal: kotlinc src/Main.kt && kotlin MainKt.class
+
+# obs:  vai compilar o arquivo passado.extensao kt , depois para mostrar no console o compilado >> kotlin ArquivoCompilado.class ## obs: o compilado vai gerar o nome do .class com PascalCase ex: se for hello.kt vai gerar um HelloKt.class #

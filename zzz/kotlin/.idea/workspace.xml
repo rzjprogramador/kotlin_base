@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="622f5bc9-6da7-4225-ad97-da7e15653c87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/androidTest/java/com/example/kotlinandroid/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/app/src/test/java/com/example/kotlinandroid/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_studio_kotlin/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_notas_kotlin_/b.base.kotlin..md" beforeDir="false" afterPath="$PROJECT_DIR$/_notas_kotlin_/b.base.kotlin..md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/src/main/kotlin/entidade_a/EntidadeAArgs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/src/main/kotlin/entidade_a/EntidadeAService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abase/src/main/kotlin/value_object/NomeEntidades.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/src/main/kotlin/com/meusite/tdd/TddApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/src/main/kotlin/com/meusite/tdd/service/CreateEntidadeServiceTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd/src/test/kotlin/com/meusite/tdd/TddApplicationTests.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WMWAQv1C7iWgppUT4Y4FelWp14" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="622f5bc9-6da7-4225-ad97-da7e15653c87" name="Changes" comment="" />
+      <created>1696542805059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696542805059</updated>
+    </task>
+    <servers />
+  </component>
+</project>
