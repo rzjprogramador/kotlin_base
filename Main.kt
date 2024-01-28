@@ -6,5 +6,3 @@ fun hello(): String {
 fun main() {
   println(hello())
 }
-
-// TODO
